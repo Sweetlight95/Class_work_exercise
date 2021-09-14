@@ -1,0 +1,56 @@
+h1{ font-size: 24pt; color: rgb(255, 115, 0);}
+h2{font-size: 18pt;
+    font-weight: bold; 
+color:rebeccapurple}
+
+body{
+    /* background-color: rgb(70, 51, 9); */
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+    /* background: repeating-linear-gradient(45deg,
+    yellow 0px,
+    teal 0px, 
+    brown 0px,
+    black 80px); */
+    }
+
+li {
+    color: orange;
+    display: inline-flex;
+    }
+.let a {
+    /* color: orange; */
+    font-size: 12pt; 
+    justify-content: space-between;
+}
+.let ul a{
+    text-decoration: none;
+}
+[title] {
+    cursor: help;
+    padding: 3px;
+    border-bottom: 2px dotted blue;   
+    text-decoration: none;
+}
+[class] {
+    border-bottom: 2px solid rgb(32, 6, 6);  
+}
+a:link {
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
+}
+a:visited {
+    text-decoration: underline;
+    color: purple;
+}
+a:hover{
+    text-decoration: none;
+    font-weight: bold;
+    background-color: orange;
+}
+a:active {background-color: yellow;
+}
+
+#sk { 
+    transform: skewX(-14deg);
+    transform: scale();
+}

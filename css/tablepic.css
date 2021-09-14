@@ -1,0 +1,42 @@
+.tab {
+    display: flex;
+    position: relative;
+    left: 40rem;
+    bottom:40rem;
+    padding-bottom: 0.5rem;
+
+}
+body {background-color: rgb(165, 141, 80);
+ transform:scale(0.7)
+}
+#house{
+    position: relative;
+    right: 37rem;
+    height: 18rem;
+    width: 25rem;
+}
+#labpic{
+    position: relative;
+    right: 37rem;
+    bottom:1.5rem;
+    padding-top:1.9rem ;
+    height: 20rem;
+    width: 25rem;
+}
+#ladystyle {
+    width: 25rem;
+    height: 18rem;
+}
+#Afric {
+  width: 10rem;
+  height: 15rem;
+
+}
+#map{
+    height: 50rem;
+    width:80%;
+}
+center{
+    position: relative;
+    bottom: 40rem;
+}
